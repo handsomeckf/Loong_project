@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/system.jpg</file>
+        <file>images/chart.png</file>
+        <file>images/button/red.png</file>
+        <file>images/button/yellow.png</file>
+        <file>images/button/blue.png</file>
+        <file>images/button/swicth.png</file>
+        <file>images/state.png</file>
+        <file>images/loongos.png</file>
+        <file>images/text.png</file>
+        <file>images/ok.png</file>
+        <file>images/notok.png</file>
+        <file>images/data.png</file>
+        <file>images/transparency.png</file>
+        <file>images/button/grey.png</file>
+    </qresource>
+</RCC>

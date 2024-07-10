@@ -1,0 +1,5 @@
+QMainWindow {
+    background-image: #00002d;
+    background-repeat: no-repeat;
+    background-position: center;
+}
